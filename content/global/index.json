@@ -37,7 +37,8 @@
         "icon": {
           "name": "BiMailSend",
           "color": "green"
-        }
+        },
+        "url": "mailto:contato@afroorigemrs.org"
       }
     ]
   },
