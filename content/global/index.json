@@ -27,16 +27,15 @@
       },
       {
         "icon": {
-          "name": "FaGithub"
-        },
-        "url": "https://github.com/lucasa/afroorigemrs"
-      },
-      {
-        "icon": {
           "name": "AiFillInstagram",
           "color": "blue"
         },
         "url": "https://www.instagram.com/afroorigemrs"
+      },
+      {
+        "icon": {
+          "name": "BiLogoWhatsapp"
+        }
       }
     ]
   },
