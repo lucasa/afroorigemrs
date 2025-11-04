@@ -1,7 +1,6 @@
 {
   "header": {
     "icon": {
-      "name": "Tina",
       "color": "orange",
       "style": "float"
     },
@@ -52,7 +51,7 @@
   },
   "theme": {
     "color": "blue",
-    "font": "sans",
+    "font": "nunito",
     "darkMode": "light"
   }
 }
