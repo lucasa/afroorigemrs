@@ -21,12 +21,6 @@
     "social": [
       {
         "icon": {
-          "name": "FaLinkedin"
-        },
-        "url": "https://www.linkedin.com/company/tinacms"
-      },
-      {
-        "icon": {
           "name": "AiFillInstagram",
           "color": "blue"
         },
