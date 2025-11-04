@@ -4,7 +4,7 @@
       "color": "orange",
       "style": "float"
     },
-    "name": "Tina Starter",
+    "name": "AfroOrigem RS",
     "color": "default",
     "nav": [
       {
@@ -13,7 +13,7 @@
       },
       {
         "href": "/about",
-        "label": "About"
+        "label": "Sobre"
       },
       {
         "href": "/posts",
