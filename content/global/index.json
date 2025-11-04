@@ -32,6 +32,12 @@
           "color": "green"
         },
         "url": "51986063319"
+      },
+      {
+        "icon": {
+          "name": "BiMailSend",
+          "color": "green"
+        }
       }
     ]
   },
