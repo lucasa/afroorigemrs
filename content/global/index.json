@@ -43,8 +43,8 @@
     ]
   },
   "theme": {
-    "color": "red",
-    "font": "lato",
+    "color": "green",
+    "font": "nunito",
     "darkMode": "light"
   }
 }
