@@ -1,6 +1,7 @@
 {
   "header": {
     "icon": {
+      "name": "BiDonateHeart",
       "color": "orange",
       "style": "float"
     },
@@ -14,10 +15,6 @@
       {
         "href": "/about",
         "label": "Sobre"
-      },
-      {
-        "href": "",
-        "label": ""
       }
     ]
   },
