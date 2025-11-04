@@ -33,16 +33,10 @@
       },
       {
         "icon": {
-          "name": "BiLogoInstagramAlt",
+          "name": "AiFillInstagram",
           "color": "white"
         },
         "url": "https://www.instagram.com/afroorigemrs"
-      },
-      {
-        "icon": {
-          "name": "FaXTwitter"
-        },
-        "url": "https://x.com/TinaCMS"
       }
     ]
   },
