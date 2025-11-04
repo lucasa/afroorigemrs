@@ -28,7 +28,8 @@
       },
       {
         "icon": {
-          "name": "BiLogoWhatsapp"
+          "name": "BiLogoWhatsapp",
+          "color": "green"
         }
       }
     ]
