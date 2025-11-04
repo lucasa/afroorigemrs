@@ -5,6 +5,7 @@ import Link from "next/link";
 import { Icon } from "../../icon";
 import { useLayout } from "../layout-context";
 import { Menu, X } from "lucide-react";
+import Image from "next/image";
 
 export const Header = () => {
   const { globalSettings, theme } = useLayout();
@@ -23,6 +24,13 @@ export const Header = () => {
                 href="/"
                 aria-label="home"
                 className="flex items-center space-x-2">
+                <Image
+                  src="https://assets.tina.io/c83f5d58-0f9b-4fa4-835b-b5e14901a1b1/favicon.png"
+                  alt="Logo"
+                  width={32}
+                  height={32}
+                  className="h-8 w-auto"
+                />
                 <Icon
                   parentColor={header.color!}
                   data={{
