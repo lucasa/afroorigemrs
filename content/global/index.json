@@ -33,7 +33,8 @@
       },
       {
         "icon": {
-          "name": "FaYoutube"
+          "name": "BiLogoInstagramAlt",
+          "color": "white"
         },
         "url": "https://www.youtube.com/@TinaCMS"
       },
