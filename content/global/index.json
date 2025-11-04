@@ -44,7 +44,7 @@
   },
   "theme": {
     "color": "red",
-    "font": "nunito",
+    "font": "lato",
     "darkMode": "light"
   }
 }
