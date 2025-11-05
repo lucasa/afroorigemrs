@@ -25,8 +25,8 @@ export const Header = () => {
                 aria-label="home"
                 className="flex items-center space-x-2">
                 <Image
-                  src="https://assets.tina.io/c83f5d58-0f9b-4fa4-835b-b5e14901a1b1/favicon.png"
-                  alt="Logo"
+                  src="https://assets.tina.io/c83f5d58-0f9b-4fa4-835b-b5e14901a1b1/afroorigemrs-logo.jpg"
+                  alt="Logo AfroOrigem RS"
                   width={32}
                   height={32}
                   className="h-8 w-auto"
